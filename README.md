@@ -6,4 +6,7 @@ Originally intended to be presented at KSC Academic Excellence Conference 2020 t
 
 <img src="undergradimages/NoAbsorbingNoCircularity.gif" width="800">
 
-## Math Modeling and Computing Project
+## Math Modeling and Computing March Madness Project
+As part of our 2019 Math Modeling and computing class students at Keene State College were formed into groups to design models which could create brackets, via prediction, for the 2019 NCAA March Madness tournament. The excel file in this repo documents our model and strategy for predicting this tournament, we used a combination of linear probability models and logistic regression to predict the winner of a given game, trained off of data from the NBA regular season. The excel file utilizes, statistics add-ins, look-ups, and macros to organize the prediction results. 
+
+## The Effects of the Minimum Wage Across the New-Hampshire-Massachusetts State Border 
